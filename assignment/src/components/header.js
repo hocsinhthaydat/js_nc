@@ -1,7 +1,7 @@
 const Header = {
     render() {
-        return `
-        <div class="bg-blue-800 py-4">
+        return /*html*/`
+      <div class="bg-blue-800 py-4">
         <a href="">
           <img src="https://picsum.photos/150/40" alt="" class="mx-auto">
         </a>
