@@ -13,11 +13,11 @@
             "dest": "/"
         },
         {
-            "src": "/admissions",
+            "src": "/about",
             "dest": "/"
         },
         {
-            "src": "/training-program",
+            "src": "/admin/dashboard",
             "dest": "/"
         },
         {
