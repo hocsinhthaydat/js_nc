@@ -1,3 +1,6 @@
+import footer from "../components/footer";
+import Header from "../components/header";
+
 const AboutPage = {
     render() {
         return /* html */`
